@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kalkulačka</string>
+    <string-array name="operations">
+        <item>Sčítání (+)</item>
+        <item>Odčítání (-)</item>
+        <item>Násobení (*)</item>
+        <item>Dělení (/)</item>
+        <item>Modulo (%)</item>
+        <item>Ntá mocnina (xⁿ)</item>
+        <item>Ntá odmocnina (ⁿ√x)</item>
+        <item>Faktoriál (n!)</item>
+    </string-array>
+</resources>
