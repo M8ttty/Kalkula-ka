@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Kalkulacka_Trejkl</string>
+    <string name="error">Chyba</string>
+    <string name="error_division_by_zero">Chyba: dělení nulou</string>
+    <string name="error_negative_root">Chyba: nelze odmocnit záporné číslo</string>
+    <string name="error_negative_factorial">Chyba: faktoriál nelze spočítat ze záporného čísla</string>
+    <string name="clear">C</string>
+    <string name="equals">=</string>
+    <string name="add">+</string>
+    <string name="subtract">−</string>
+    <string name="multiply">×</string>
+    <string name="divide">÷</string>
+    <string name="modulo">%</string>
+    <string name="power">xʸ</string>
+    <string name="root">√</string>
+    <string name="factorial">!</string>
+
+    <string-array name="operations">
+        <item>xʸ (Mocnina)</item>
+        <item>√ (Odmocnina)</item>
+        <item>! (Faktoriál)</item>
+    </string-array>
+</resources>
